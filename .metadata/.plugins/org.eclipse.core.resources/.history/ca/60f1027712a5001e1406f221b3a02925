@@ -1,0 +1,32 @@
+package 변수및자료형;
+
+public class Memo {
+
+	public static void main(String[] args) {
+		
+		
+		System.out.println("조범수");
+		scanner sc = new scanner (System.in);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

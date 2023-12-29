@@ -1,0 +1,57 @@
+package 산술연산자;
+
+import java.util.Scanner;
+
+public class Ex02산술연산자예제 {
+
+	public static void main(String[] args) {
+        // 1. 입력도구 꺼내오기
+		Scanner sc = new Scanner(System.in);
+		// 2. 입력받기
+//		String name = sc.next();
+//		//int name = sc.nextint();
+//		
+//		System.out.println("입력받은 글자는 >> "+ name);
+//		
+//		System.out.print("숫자를 입력하세요 >> ");
+//		// 3. 정수형 숫자를 입력
+//		int num1 = sc.nextInt();
+		
+		//주석 단축키 : ctrl / 
+		
+		int num1 = 10;
+		int num2 = 3;
+		float num3 = 10.0f;
+		float num4 = 3.0f;
+		
+		System.out.println(num1+num2);
+		System.out.println(num1-num2);
+		System.out.println(num1*num2);
+		System.out.println(num3/num4);
+		System.out.println(num3%num4);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
