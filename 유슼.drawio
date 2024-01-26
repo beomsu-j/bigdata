@@ -1,64 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T00:36:05.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="x78ztNd28bhqEHpee4Fz" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-26T01:36:43.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Zyr-IIZyd0uPWstPU_wa" version="23.0.2" type="github">
   <diagram name="페이지-1" id="F-Qo0YmJKDmK0pzWLQyR">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-1" target="QoTrABZ16mOMhlOTWaRS-3">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-1" target="QoTrABZ16mOMhlOTWaRS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
-          <mxGeometry x="70" y="280" width="90" height="130" as="geometry" />
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=4;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="90" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-3" target="QoTrABZ16mOMhlOTWaRS-4">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-3" target="QoTrABZ16mOMhlOTWaRS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-3" target="QoTrABZ16mOMhlOTWaRS-8">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-3" target="QoTrABZ16mOMhlOTWaRS-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-3" target="QoTrABZ16mOMhlOTWaRS-10">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-3" target="QoTrABZ16mOMhlOTWaRS-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-3" target="QoTrABZ16mOMhlOTWaRS-11">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-3" target="QoTrABZ16mOMhlOTWaRS-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;메인 페이지&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;메인 페이지&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-4" target="QoTrABZ16mOMhlOTWaRS-5">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-4" target="QoTrABZ16mOMhlOTWaRS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;로그인&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;로그인&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-5" target="QoTrABZ16mOMhlOTWaRS-6">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-5" target="QoTrABZ16mOMhlOTWaRS-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;난이도 선택&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;난이도 선택&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-6" target="QoTrABZ16mOMhlOTWaRS-7">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-6" target="QoTrABZ16mOMhlOTWaRS-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;행맨게임&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;행맨게임&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-7" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;점수 및 등급&lt;br&gt;정산&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-7" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;점수 및 등급&lt;br&gt;정산&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;게임종료&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;게임종료&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;회원탈퇴&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;회원탈퇴&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;회원가입&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;회원가입&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;랭킹조회&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;랭킹조회&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QoTrABZ16mOMhlOTWaRS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-3" target="QoTrABZ16mOMhlOTWaRS-9">
+        <mxCell id="QoTrABZ16mOMhlOTWaRS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="QoTrABZ16mOMhlOTWaRS-3" target="QoTrABZ16mOMhlOTWaRS-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="362" y="220" />
